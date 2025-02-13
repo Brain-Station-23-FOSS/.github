@@ -45,11 +45,6 @@ We welcome contributions from developers, designers, and enthusiasts. Here’s h
 3. **Submit Pull Requests:** Implement your changes and submit a PR for review.
 4. **Join Discussions:** Share your ideas, questions, or feedback in the discussions tab.
 
-Please read our [Contribution Guidelines](CONTRIBUTING.md) before you start.
-
-### Code of Conduct
-We are committed to creating an inclusive and respectful environment. Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ---
 
 ## Community
